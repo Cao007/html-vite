@@ -5,6 +5,11 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
+		"less": "^4.2.1",
 		"vite": "^6.0.7"
+	},
+	"dependencies": {
+		"axios": "^1.7.9",
+		"typescript": "^5.7.2"
 	}
 }

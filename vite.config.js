@@ -6,7 +6,7 @@ export default defineConfig({
     sourcemap: true,
     rollupOptions: {
       input: {
-        main: "./src/main.js",
+        main: "./src/main.ts",
       },
     },
   },
